@@ -16,8 +16,6 @@ This system was developed for ECE1786 — Creative Applications of Natural Langu
 
 <div margin: 20px 0;>
   <img src="HoopScout/Badges/Jumpshot.PNG" alt="Jump Shot Badge" width="92" height="104" style="margin: 0 5px;">
-</div>
-<div margin: 20px 0;>
   <img src="HoopScout/Badges/Dimer.PNG" alt="Jump Shot Badge" width="92" height="104" style="margin: 0 5px;">
 </div>
 
