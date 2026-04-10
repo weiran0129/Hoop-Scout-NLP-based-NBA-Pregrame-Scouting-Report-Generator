@@ -15,7 +15,7 @@ This system was developed for ECE1786 — Creative Applications of Natural Langu
      style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;">
 
 <div margin: 20px 0;>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Jumpshot.png" alt="Jump Shot Badge" width="92" height="104" style="margin: 0 5px;">
+  <img src="HoopScout/Badges/Jumpshot.PNG" alt="Jump Shot Badge" width="92" height="104" style="margin: 0 5px;">
 </div>
 
 <div>
